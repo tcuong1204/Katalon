@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_iPhone 15 Series</name>
+   <tag></tag>
+   <elementGuidId>f3cc735c-cb4a-4c06-809f-08f05af4c0a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/navigation/div/ul/li/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.header__navsub__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>223a656a-476c-465b-8e32-1effc08bb7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://minhtuanmobile.com/iphone-15-series/</value>
+      <webElementGuid>836acd81-4670-4549-94f5-43a9eed25fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__navsub__title</value>
+      <webElementGuid>8d6090aa-f3b8-4c4c-a18c-0f73b3d617d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                iPhone 15 Series                            </value>
+      <webElementGuid>0135802d-e6d1-4d52-b4af-2b74d99aaf13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/navigation[@class=&quot;header__nav__container&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;navigation&quot;]/li[@class=&quot;nav-icon&quot;]/div[@class=&quot;header__navsub&quot;]/ul[@class=&quot;header__navsub__container&quot;]/li[1]/a[@class=&quot;header__navsub__title&quot;]</value>
+      <webElementGuid>23fc53bd-a974-4a7d-bc45-c08805e5ec66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/navigation/div/ul/li/div/ul/li/a</value>
+      <webElementGuid>f96981a5-6807-438e-916e-358ded8a0120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'iPhone 15 Series')]</value>
+      <webElementGuid>aceb2718-6105-474b-bbda-e64b587ea192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://minhtuanmobile.com/iphone-15-series/')]</value>
+      <webElementGuid>e3bc5874-c545-4f1c-ad83-520f43af8b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li/a</value>
+      <webElementGuid>6590f54d-e11e-49ea-8723-f3c64792f549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://minhtuanmobile.com/iphone-15-series/' and (text() = '
+                                iPhone 15 Series                            ' or . = '
+                                iPhone 15 Series                            ')]</value>
+      <webElementGuid>568a7057-d2bc-48cc-8de4-a2cfe489224b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

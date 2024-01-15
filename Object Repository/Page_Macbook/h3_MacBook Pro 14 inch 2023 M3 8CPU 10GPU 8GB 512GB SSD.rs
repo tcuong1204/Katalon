@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD</name>
+   <tag></tag>
+   <elementGuidId>08bc1008-b198-4551-828e-b434e48edde6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='getproduct_reponse']/div/div/div/a/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.probox__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4e9efe58-cb9d-4656-850e-e81456974617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>probox__title</value>
+      <webElementGuid>6bec23f4-a6ed-4e40-b285-bd570679bfe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD</value>
+      <webElementGuid>0ae01a6b-887c-4046-b952-6da29fd7e224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;getproduct_reponse&quot;)/div[@class=&quot;row row-cols-2 row-cols-sm-4 row-cols-lg-5 row-cols-xl-5 product__container&quot;]/div[@class=&quot;col proitem&quot;]/div[@class=&quot;probox  boxproid__19414 boxprobrand__apple boxprotype__product pro__group89 pro__main518 prothreaduudai--481 prothreaddichvu--133  probox--pricemin-5 probox--pricemin-10 probox--pricemin-20 probox--pricemin-30 probox--appearance probox-appearance-475 probox--tratruoc&quot;]/a[@class=&quot;box&quot;]/div[@class=&quot;probox__des&quot;]/h3[@class=&quot;probox__title&quot;]</value>
+      <webElementGuid>f7ce9966-2c44-4bd8-950a-9e9079b1cd47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='getproduct_reponse']/div/div/div/a/div[2]/h3</value>
+      <webElementGuid>5336902a-5bb6-411a-adaf-7c7148a85b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e04590fb-be81-4993-a818-1aed897547d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD' or . = 'MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD')]</value>
+      <webElementGuid>66341387-48ac-4370-b8f7-64a02545ad4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

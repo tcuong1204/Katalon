@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Requirement: User able to add a Macbook item to shopping cart</description>
+   <name>Minh Tuan Mobile_Macbook_Add Item - Spy Object</name>
+   <tag>MT-1</tag>
+   <comment></comment>
+   <testCaseGuid>030e64f7-bed6-4421-af17-f3ff3569bdda</testCaseGuid>
+</TestCaseEntity>

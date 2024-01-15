@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Requirement: There are 2 discount messages display in each item</description>
+   <name>Minh Tuan Mobile_Iphone_Discount message - Record</name>
+   <tag>MT-2</tag>
+   <comment></comment>
+   <testCaseGuid>8593426e-c113-4758-b281-4c21371bd3c4</testCaseGuid>
+</TestCaseEntity>

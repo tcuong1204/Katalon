@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Discount 2</name>
+   <tag></tag>
+   <elementGuidId>ff819d6d-120e-4d4e-9647-1f207c0dbb8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.percent_text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7907c351-4c59-4eaa-a996-517102650fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>percent_text</value>
+      <webElementGuid>44dfd00f-8eed-4dd1-a597-c01bd18747b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiết kiệm thêm 300,000đ</value>
+      <webElementGuid>efb5371f-a427-47d1-82cf-b5b337a59176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-products prodetail browser__chrome  browser__linux&quot;]/aside[@class=&quot;clearfix pagemain-wrapper&quot;]/div[@class=&quot;container wrapper-container prodetail__main prodetail__18712&quot;]/div[@class=&quot;pdinfo_faddcart detail_pdinfo_faddcart&quot;]/form[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12 col-xl-9&quot;]/div[@class=&quot;prodetail__wrapper prodetail__overview_imginfo row mx-0 mb-0&quot;]/div[@class=&quot;col-12 col-lg prodetail__overview_info pb-0 pb-md-4&quot;]/div[@class=&quot;row prodetail-price-wrapper transition mb-2&quot;]/div[@class=&quot;col-12 col-md prodetail__pricegroup order-2 order-md-1&quot;]/div[@class=&quot;prodetail_pricebox_buyonline border-bottom&quot;]/p[@class=&quot;prodetail__price prodetail__price--buynow mb-0&quot;]/b[@class=&quot;price__buyonline&quot;]/span[@class=&quot;percent_text&quot;]</value>
+      <webElementGuid>37520465-6bed-4766-9864-a083b940c3ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/span</value>
+      <webElementGuid>11245612-6275-4b68-8a3f-89a99d48b42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tiết kiệm thêm 300,000đ' or . = 'Tiết kiệm thêm 300,000đ')]</value>
+      <webElementGuid>0f0b9586-973a-4d83-8640-0a4a41955115</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

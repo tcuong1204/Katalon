@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Minh Tuan Mobile_Item_Test suite,Chrome 119.0.0.0,,,15-01-2024 11:28:37,15-01-2024 11:29:33,55.645s,FAILED
+,,,,,,,
+Test Cases/Minh Tuan Mobile_Macbook_Add Item - Spy Object,Chrome 119.0.0.0,Requirement: User able to add a Macbook item to shopping cart,MT-1,15-01-2024 11:28:37,15-01-2024 11:28:56,18.913s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,15-01-2024 11:28:37,15-01-2024 11:28:38,0.909s,PASSED
+navigateToUrl(base_url),Chrome 119.0.0.0,,,15-01-2024 11:28:38,15-01-2024 11:28:44,5.609s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,15-01-2024 11:28:44,15-01-2024 11:28:44,0.393s,PASSED
+delay(5),Chrome 119.0.0.0,,,15-01-2024 11:28:44,15-01-2024 11:28:49,5.031s,PASSED
+"waitForElementVisible(findTestObject(""Page_Homepage Minh Tuan Mobile/span_Mac""), 10)",Chrome 119.0.0.0,,,15-01-2024 11:28:49,15-01-2024 11:28:50,0.420s,PASSED
+"mouseOver(findTestObject(""Page_Homepage Minh Tuan Mobile/span_Mac""))",Chrome 119.0.0.0,,,15-01-2024 11:28:50,15-01-2024 11:28:50,0.787s,PASSED
+"mouseOver(findTestObject(""Page_Homepage Minh Tuan Mobile/a_MacBook""))",Chrome 119.0.0.0,,,15-01-2024 11:28:50,15-01-2024 11:28:51,0.785s,PASSED
+"click(findTestObject(""Page_Homepage Minh Tuan Mobile/a_MacBook Pro""))",Chrome 119.0.0.0,,,15-01-2024 11:28:51,15-01-2024 11:28:53,1.432s,PASSED
+"waitForElementClickable(findTestObject(""Page_Macbook/h3_MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD""), 10)",Chrome 119.0.0.0,,,15-01-2024 11:28:53,15-01-2024 11:28:53,0.512s,PASSED
+"click(findTestObject(""Page_Macbook/h3_MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD""))",Chrome 119.0.0.0,,,15-01-2024 11:28:53,15-01-2024 11:28:54,1.362s,PASSED
+"click(findTestObject(""Page_Child Macbook item/btn_Add item""))",Chrome 119.0.0.0,,,15-01-2024 11:28:54,15-01-2024 11:28:55,0.854s,PASSED
+"verifyElementPresent(findTestObject(""Page_Child Macbook item/popup_Item added""), 3)",Chrome 119.0.0.0,,,15-01-2024 11:28:55,15-01-2024 11:28:56,0.547s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,15-01-2024 11:28:56,15-01-2024 11:28:56,0.117s,PASSED
+,,,,,,,
+Test Cases/Minh Tuan Mobile_Iphone_Discount message - Record,Chrome 119.0.0.0,Requirement: There are 2 discount messages display in each item,MT-2,15-01-2024 11:28:56,15-01-2024 11:29:14,18.357s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,15-01-2024 11:28:56,15-01-2024 11:28:57,0.922s,PASSED
+"navigateToUrl(""https://minhtuanmobile.com/"")",Chrome 119.0.0.0,,,15-01-2024 11:28:57,15-01-2024 11:29:00,2.914s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,,,15-01-2024 11:29:00,15-01-2024 11:29:00,0.338s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Homepage Minh Tuan Mobile/span_iPhone""))",Chrome 119.0.0.0,,,15-01-2024 11:29:00,15-01-2024 11:29:02,1.324s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Homepage Minh Tuan Mobile/a_iPhone 15 Series""))",Chrome 119.0.0.0,,,15-01-2024 11:29:02,15-01-2024 11:29:03,1.071s,PASSED
+"click(findTestObject(""Object Repository/Page_Homepage Minh Tuan Mobile/a_iPhone 15 Pro""))",Chrome 119.0.0.0,,,15-01-2024 11:29:03,15-01-2024 11:29:05,2.149s,PASSED
+"click(findTestObject(""Object Repository/Page_Iphone 15 Pro/h3_iPhone 15 Pro 128GB product name""))",Chrome 119.0.0.0,,,15-01-2024 11:29:05,15-01-2024 11:29:09,3.877s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Child Iphone 15 Pro/div_Discount 1""), 0)",Chrome 119.0.0.0,,,15-01-2024 11:29:09,15-01-2024 11:29:10,0.949s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Child Iphone 15 Pro/span_Discount 2""), 0)",Chrome 119.0.0.0,,,15-01-2024 11:29:10,15-01-2024 11:29:10,0.574s,PASSED
+"click(findTestObject(""Object Repository/Page_Child Iphone 15 Pro/input_priceitem""))",Chrome 119.0.0.0,,,15-01-2024 11:29:10,15-01-2024 11:29:11,0.463s,PASSED
+"click(findTestObject(""Object Repository/Page_Child Iphone 15 Pro/btn_Buy now""))",Chrome 119.0.0.0,,,15-01-2024 11:29:11,15-01-2024 11:29:13,2.781s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Shoping cart/btn_Trash""), 0)",Chrome 119.0.0.0,,,15-01-2024 11:29:13,15-01-2024 11:29:14,0.804s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,15-01-2024 11:29:14,15-01-2024 11:29:14,0.138s,PASSED
+,,,,,,,
+Test Cases/Minh Tuan Mobile_Shopping Cart_Remove Item,Chrome 119.0.0.0,Requirement: User is able to remove any added item in shopping cart,MT-3,15-01-2024 11:29:14,15-01-2024 11:29:33,18.234s,FAILED
+testObj = new com.kms.katalon.core.testobject.TestObject(),Chrome 119.0.0.0,,,15-01-2024 11:29:14,15-01-2024 11:29:14,0.003s,PASSED
+openBrowser(base_url),Chrome 119.0.0.0,Open browser and navigate to Minh Tuan Mobile homepage,,15-01-2024 11:29:14,15-01-2024 11:29:18,3.557s,PASSED
+"xMinhTuanLogo = ""//img[contains(@alt, ""Hệ thống cửa hàng điện thoại Minh Tuấn Mobile"")]""",Chrome 119.0.0.0,Wait for the page loaded,,15-01-2024 11:29:18,15-01-2024 11:29:18,0.002s,PASSED
+"waitForElementVisible(testObj.addProperty(""xpath"", EQUALS, xMinhTuanLogo), 10)",Chrome 119.0.0.0,,,15-01-2024 11:29:18,15-01-2024 11:29:19,0.572s,PASSED
+maximizeWindow(),Chrome 119.0.0.0,Maximize window,,15-01-2024 11:29:19,15-01-2024 11:29:19,0.315s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Homepage Minh Tuan Mobile/span_Mac""))",Chrome 119.0.0.0,Go to Macbook Pro,,15-01-2024 11:29:19,15-01-2024 11:29:20,1.297s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Homepage Minh Tuan Mobile/a_MacBook""))",Chrome 119.0.0.0,,,15-01-2024 11:29:20,15-01-2024 11:29:22,1.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Homepage Minh Tuan Mobile/a_MacBook Pro""))",Chrome 119.0.0.0,,,15-01-2024 11:29:22,15-01-2024 11:29:23,0.976s,PASSED
+"lMacbooks = [""MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 512GB SSD"", ""MacBook Pro 14 inch 2023 M3 8CPU 10GPU 8GB 1TB SSD""]",Chrome 119.0.0.0,Add some Macbook to shopping cart,,15-01-2024 11:29:23,15-01-2024 11:29:23,0.001s,PASSED
+for (def sMacbook : lMacbooks),Chrome 119.0.0.0,,,15-01-2024 11:29:23,15-01-2024 11:29:30,7.330s,PASSED
+"xShoppingCart = ""//b[text()=""Giỏ hàng""]""",Chrome 119.0.0.0,Go to shopping cart,,15-01-2024 11:29:30,15-01-2024 11:29:30,0.001s,PASSED
+"tShoppingCartObj = testObj.addProperty(""xpath"", EQUALS, xShoppingCart)",Chrome 119.0.0.0,,,15-01-2024 11:29:30,15-01-2024 11:29:30,0.002s,PASSED
+click(tShoppingCartObj),Chrome 119.0.0.0,,,15-01-2024 11:29:30,15-01-2024 11:29:31,1.407s,PASSED
+for (def sMacbook : lMacbooks),Chrome 119.0.0.0,Delete item,,15-01-2024 11:29:31,15-01-2024 11:29:33,1.250s,FAILED

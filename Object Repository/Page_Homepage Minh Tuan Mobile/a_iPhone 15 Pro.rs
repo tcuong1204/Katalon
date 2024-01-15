@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_iPhone 15 Pro</name>
+   <tag></tag>
+   <elementGuidId>f9766cd7-097c-4843-8633-a0757919d689</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/navigation/div/ul/li/div/ul/li/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.header__navsub__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3dd88ac6-08e3-4123-a678-c6ee4c7f08f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://minhtuanmobile.com/iphone-15-pro</value>
+      <webElementGuid>4ed8f2f1-31d2-41b9-a9f5-8432d27798de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__navsub__title</value>
+      <webElementGuid>bef16ea8-83a0-4295-b289-10ea9d3edc74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>e60c50c1-0b9d-444f-939f-300f2472e924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                iPhone 15 Pro                                            </value>
+      <webElementGuid>5d121875-9d71-44ce-9c51-cf68208d6628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/navigation[@class=&quot;header__nav__container&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;navigation&quot;]/li[@class=&quot;nav-icon&quot;]/div[@class=&quot;header__navsub&quot;]/ul[@class=&quot;header__navsub__container&quot;]/li[1]/div[@class=&quot;header__navsubctl&quot;]/ul[@class=&quot;header__navsub__container&quot;]/li[3]/a[@class=&quot;header__navsub__title&quot;]</value>
+      <webElementGuid>98a98b75-081c-4b6f-b357-5145da534aae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/navigation/div/ul/li/div/ul/li/div/ul/li[3]/a</value>
+      <webElementGuid>8e379e5c-272a-413e-84c9-237ff5f32e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'iPhone 15 Pro')]</value>
+      <webElementGuid>dd1228e8-9139-4d48-8b5f-55429a74aac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://minhtuanmobile.com/iphone-15-pro')]</value>
+      <webElementGuid>7fe03c2f-4bf7-4420-a584-9040dcf2dc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li/div/ul/li[3]/a</value>
+      <webElementGuid>5fdddfe9-afed-4039-aaf5-0ada48fc6fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://minhtuanmobile.com/iphone-15-pro' and (text() = '
+                                                iPhone 15 Pro                                            ' or . = '
+                                                iPhone 15 Pro                                            ')]</value>
+      <webElementGuid>cecb8546-dcc7-40be-87f1-dd03384ef21a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

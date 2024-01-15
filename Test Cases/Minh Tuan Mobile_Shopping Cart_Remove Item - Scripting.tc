@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Requirement: User is able to remove any added item in shopping cart</description>
+   <name>Minh Tuan Mobile_Shopping Cart_Remove Item - Scripting</name>
+   <tag>MT-3</tag>
+   <comment></comment>
+   <testCaseGuid>25f399dc-c78e-476d-a5d4-6015a87c1afc</testCaseGuid>
+</TestCaseEntity>

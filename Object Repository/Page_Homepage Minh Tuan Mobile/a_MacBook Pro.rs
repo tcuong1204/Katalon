@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MacBook Pro</name>
+   <tag></tag>
+   <elementGuidId>6ec9cc33-eda7-4d27-84ab-cd2b196664eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/navigation/div/ul/li[4]/div/ul/li/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>91650355-d2dc-46b9-8e35-0f0206191299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://minhtuanmobile.com/macbook-pro</value>
+      <webElementGuid>dffe95b6-1c1a-4d0d-b251-1d3445bb6d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__navsub__title</value>
+      <webElementGuid>58b15e24-ff58-409e-aae6-937c0f5ff9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>a5f71319-2982-45c5-9489-b9e4937946be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                MacBook Pro                                            </value>
+      <webElementGuid>72aa9620-aed6-4ae5-a9e7-c6b758d53f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/navigation[@class=&quot;header__nav__container&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;navigation&quot;]/li[@class=&quot;nav-icon&quot;]/div[@class=&quot;header__navsub&quot;]/ul[@class=&quot;header__navsub__container&quot;]/li[1]/div[@class=&quot;header__navsubctl&quot;]/ul[@class=&quot;header__navsub__container&quot;]/li[1]/a[@class=&quot;header__navsub__title&quot;]</value>
+      <webElementGuid>3d9b3689-3830-4156-8fd6-e0b0c9b42ece</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/navigation/div/ul/li[4]/div/ul/li/div/ul/li/a</value>
+      <webElementGuid>e75f503a-7ee9-4d6c-9346-c1012dabb358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MacBook Pro')]</value>
+      <webElementGuid>c77f236e-73a8-442b-a471-2407237654cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://minhtuanmobile.com/macbook-pro')]</value>
+      <webElementGuid>b182ac31-6af1-48c3-a0c9-fec7e2211c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/ul/li/div/ul/li/a</value>
+      <webElementGuid>8715a617-d082-480f-b4e3-c6c47c8bada0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://minhtuanmobile.com/macbook-pro' and (text() = '
+                                                MacBook Pro                                            ' or . = '
+                                                MacBook Pro                                            ')]</value>
+      <webElementGuid>210d937e-6581-4eef-80da-e60317e03a30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
